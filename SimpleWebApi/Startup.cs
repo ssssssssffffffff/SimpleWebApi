@@ -14,7 +14,7 @@ using Microsoft.EntityFrameworkCore;
 using SimpleWebApi.Data;
 using NSwag.AspNetCore;
 
-
+// .net core+SQL Database
 namespace SimpleWebApi
 {
     public class Startup
